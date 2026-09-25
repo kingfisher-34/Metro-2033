@@ -226,4 +226,4 @@ Metro 2033 Redux is available as a full free version with all features and updat
 Download Metro 2033 Redux now and embark on your journey through the thrilling and dangerous world of post-apocalyptic Moscow! Enjoy the full version with all features included and join the fight for survival today!
 
 ---
-**Last updated:** 2026-09-25 01:13:44 UTC
+**Last updated:** 2026-09-25 07:17:56 UTC
